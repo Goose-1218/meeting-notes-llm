@@ -1,0 +1,9 @@
+Meeting: Onboarding Improvements – 19 Nov
+
+Attendees: Alex, Sam, Yara
+
+- Discussed drop-off on step 2 of onboarding.
+- Sam will dig into Mixpanel data.
+- Alex will try shorter text and add a progress bar.
+- Yara suggests running a small A/B test.
+- Dark mode requests from customers keep coming.

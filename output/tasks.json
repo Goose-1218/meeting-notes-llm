@@ -1,0 +1,22 @@
+[
+  {
+    "description": "Analyze onboarding step 2 funnel in Mixpanel and report numbers",
+    "owner": "Sam",
+    "due_date": null
+  },
+  {
+    "description": "Design a shorter onboarding copy and add a progress bar",
+    "owner": "Alex",
+    "due_date": null
+  },
+  {
+    "description": "Prepare a small A/B test for the onboarding flow",
+    "owner": "Yara",
+    "due_date": null
+  },
+  {
+    "description": "Consider adding dark mode to the Q1 roadmap",
+    "owner": null,
+    "due_date": null
+  }
+]
